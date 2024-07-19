@@ -1,0 +1,18 @@
+1. Create a list that will contain atleast 5 objects.
+2. Save them inside a variable.
+3. Print the last object from the list
+
+1. Create a variable that will hold an int
+2. Create an additional variable that will hold another int.
+3. Add the sum of those 
+4. Create an if statement where if they both equal 10 print true / else print false
+
+
+
+String = ""
+
+Int = 5
+
+Slicing = [0]
+
+List = ['Abc', 'XYZ', 5]
